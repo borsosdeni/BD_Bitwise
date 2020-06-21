@@ -1,0 +1,17 @@
+{
+  "name" : "BD_Bitwise v1.0.1",
+  "title": "BD_Bitwise v1.0.1",
+  "keywords": "ide, esp32",
+  "category":"",
+  "description": "Plugin BD_Bitwise for KB-IDE",
+  "git": "https://github.com/borsosdeni/BD_Bitwise",
+  "author": "borsosdeni",
+  "email": "",
+  "url": "http://www.kbide.org",
+  "version": "1.0.1",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
