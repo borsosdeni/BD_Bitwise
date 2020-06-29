@@ -1,4 +1,4 @@
-#Bitwise operators plugin plugin
+#Bitwise operators plugin
 
 BD_Bitwise
 
