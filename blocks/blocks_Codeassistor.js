@@ -144,18 +144,3 @@ Blockly.Blocks['BD_Bitwise_op_all'] = {
     this.setHelpUrl("");
   }
 };
-
-/*
-Blockly.Blocks['ds18b20_get_temperature'] = {
-  init: function() {
-    this.appendValueInput("device")
-        .setCheck("Number")
-        .appendField("DS18B20 get temperature (C) of device");
-    this.setInputsInline(true);
-    this.setOutput(true, ["float", "Number"]);
-    this.setColour(30);
- this.setTooltip("get temperature of device index N");
- this.setHelpUrl("");
-  }
-};
-*/
